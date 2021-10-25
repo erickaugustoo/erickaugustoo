@@ -10,7 +10,7 @@
   <img align="center" alt="Erick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Erick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Erick-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="right" alt="Eric-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/696781600985186364/902280781341265920/charizard.png?width=676&height=676">
+  <img align="right" alt="Eric-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/696781600985186364/902281817690894466/charizard.png?width=676&height=676">
 </div>
   
   ##
