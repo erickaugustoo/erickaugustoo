@@ -5,7 +5,7 @@
 - Strong understanding of Git and Gitflow for version control and collaboration in software projects.
 - Demonstrated mastery in creating interactive dashboards with Shiny for data visualization.
 
-## Senior Software Developer
+## Software Developer
 
 - Specialized in communication solutions at Twilio, including IVR, WebChat, and SMS.
 - Extensive experience in version control using Gitflow, Github, and Gitea.
